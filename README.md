@@ -1,17 +1,13 @@
 ### Welcome, stranger 👋
-![](https://www.codewars.com/users/tippfehlr/badges/small)
 
-<!--
-**tippfehlr/tippfehlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://github.com/tippfehlr/">
+        <img src="https://github-readme-stats.vercel.app/api?username=tippfehlr&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    </a>
+    <a href="https://github.com/tippfehlr/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tippfehlr&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    </a>
+    <a href="https://github.com/tippfehlr/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=tippfehlr&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    </a>
+</p>
