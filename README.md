@@ -1,4 +1,4 @@
-Remember, GitHub is nice but not open source. and owned by Microsoft.
+Remember, GitHub is nice but not open source. And owned by Microsoft.
 
 I’m also on
 
